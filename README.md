@@ -22,18 +22,3 @@ Image classification involves categorizing images based on their content, like d
 Image segmentation focuses on dividing an image into meaningful parts or segments. In the context of building detection, this technique delineates building boundaries within satellite or aerial imagery.
 
 ![Building detection](./img/building_detection.png 'building detection')
-
-### 4. Land Use Land Cover Mapping (multi-class image segmentation)
-
-This involves a more detailed image segmentation process, aiming to map various land use and land cover classes within an area, such as distinguishing between different types of vegetation, water bodies, and infrastructure.
-
-![LULC classification](./img/lulc_classification.png 'LULC classification')
-
-### 5. Landslide detection using SAR and Optical dataset
-
-Combining Synthetic Aperture Radar (SAR) and Optical datasets enables the detection of potential landslide areas. SAR provides all-weather and day-and-night imaging, while optical datasets offer high-resolution imagery for identifying surface changes indicating potential landslides.
-
-![Landslide4sense](./img/landslide4sense.png 'Landslide4sense')
-
-
-
